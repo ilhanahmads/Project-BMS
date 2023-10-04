@@ -1,4 +1,4 @@
-# project_vue
+# PROJECT BMS
 
 ## Project setup
 ```
