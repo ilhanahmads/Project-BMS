@@ -1,4 +1,5 @@
 # PROJECT BMS
+Visit **https://project-bms.vercel.app/** for the preview 
 
 ## Project setup
 ```
